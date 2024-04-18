@@ -1,0 +1,2 @@
+The link for ruby documentary is given below:
+https://ruby-doc.org/3.2.2/String.html
